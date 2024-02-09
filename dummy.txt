@@ -1,3 +1,2 @@
 This is some dummy text.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-edited by thana
+Edited by thana
